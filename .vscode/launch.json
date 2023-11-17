@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/yeonl/OneDrive/문서/epitech",
-      "program": "c:/Users/yeonl/OneDrive/문서/epitech/build/Debug/outDebug",
+      "cwd": "c:/Users/yeonl/OneDrive/문서/epitech/src",
+      "program": "c:/Users/yeonl/OneDrive/문서/epitech/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
